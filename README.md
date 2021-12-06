@@ -18,9 +18,14 @@ ETH Variable Long: [0x752d59604d72b6dc44196f4a39a3f07779417407](https://polygons
 ## BeverageBaseManager
 [0xFF55377eC9D6317D1DdCf1E10f4E3d0FDec41157](https://etherscan.io/address/0xFF55377eC9D6317D1DdCf1E10f4E3d0FDec41157)
 
+## BeverageBaseManager (Polygon)
+[0xef76c99a9e3d50818a01a1c8d3c2c7a8d7431728](https://polygonscan.com/address/0xef76c99a9e3d50818a01a1c8d3c2c7a8d7431728)
 
 ## BeverageFeeSplitExtension
 [0x2B42a6D12750e78eA88FAFAd58B35A47382fd020](https://etherscan.io/address/0x2B42a6D12750e78eA88FAFAd58B35A47382fd020)
+
+## BeverageFeeSplitExtension (Polygon)
+[0x0aaFBCF156B595d5374E77a09b61b1A2DC5EBf45](https://polygonscan.com/address/0x0aaFBCF156B595d5374E77a09b61b1A2DC5EBf45)
 
 ## Strategies
 

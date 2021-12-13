@@ -66,10 +66,10 @@ RATIOMOON / USDC: [0xa67e36255bdc1cb457532e05debdc896e28ed753](https://etherscan
 - PID = 0, AllocPoint = 100
 
 LINKETHMOON / USDC: [0xc5b138bb9b892d26a2d4c8d804155cfe9841aea6](https://etherscan.io/address/0xc5b138bb9b892d26a2d4c8d804155cfe9841aea6)
-- PID = 1, AllocPoint = 100
+- PID = 1, AllocPoint = 0
 
 RATIODOOM / USDC: [0xcb73fa01af00e9c5aa0420f106c87893c053f383](https://etherscan.io/address/0xcb73fa01af00e9c5aa0420f106c87893c053f383)
-- PID = 2, AllocPoint = 100
+- PID = 2, AllocPoint = 0
 
 MKRETHDOOM / USDC: [0x94f21d6c512b7a3631efa36c4ca9b32ba476129e](https://etherscan.io/address/0x94f21d6c512b7a3631efa36c4ca9b32ba476129e)
 - PID = 3, AllocPoint = 100

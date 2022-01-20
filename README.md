@@ -14,6 +14,9 @@ Tether 3x Short: [0x0110aD3Cf10A6d04993BeC37BDCCBA6EE2C48A27](https://etherscan.
 
 ETH Variable Long: [0x752d59604d72b6dc44196f4a39a3f07779417407](https://polygonscan.com/address/0x752d59604d72b6dc44196f4a39a3f07779417407)
 
+ETH Variable Short: [0x51D6F767Ef7563FA5219c07311970d7A5c54950C](https://polygonscan.com/address/0x51D6F767Ef7563FA5219c07311970d7A5c54950C)
+
+ETHBTC 2x Long (Polygon): [0xC4a25b0113FfB29f706f75A188DC6D9a41f10849](https://polygonscan.com/address/0xC4a25b0113FfB29f706f75A188DC6D9a41f10849)
 
 ## BeverageBaseManager
 [0xFF55377eC9D6317D1DdCf1E10f4E3d0FDec41157](https://etherscan.io/address/0xFF55377eC9D6317D1DdCf1E10f4E3d0FDec41157)
@@ -40,6 +43,10 @@ MkrEthShortAaveLeverageStrategyExtension: [0x9ff3ee78368a8C57A37889B4ADC4bDe707C
 TetherShort3xAaveLeverageStrategyExtension: [0x6858051d5BDf9c297Ef5245148da8f1Dd4DbC255](https://etherscan.io/address/0x6858051d5BDf9c297Ef5245148da8f1Dd4DbC255)
 
 EthVariableLongAaveLeverageStrategyExtension: [0xF1fA7b293C49D0eDD1a0f9C5121f33b5e09A8CaB](https://polygonscan.com/address/0xF1fA7b293C49D0eDD1a0f9C5121f33b5e09A8CaB)
+
+EthVariableShortAaveLeverageStrategyExtension: [0xde5512c3d076A1BEAFAF29AfBA3B233d842Ac030](https://polygonscan.com/address/0xde5512c3d076A1BEAFAF29AfBA3B233d842Ac030)
+
+EthBtc2xAaveLeverageStrategyExtension (Polygon): [0x9a3B0a846dE05eC03bc4120708Cd6e90B5344235](https://polygonscan.com/address/0x9a3B0a846dE05eC03bc4120708Cd6e90B5344235)
 
 
 ## BeverageToken
@@ -79,6 +86,12 @@ TETHERDOOM / USDC: [0x72A0F9c792731B55006A9527A2096c53Ce09C7Fe](https://ethersca
 
 mETHMOON / WETH (Polygon): [0x83498213a7359f83c6938a4c53127fc16b3551ce](https://info.quickswap.exchange/pair/0x83498213a7359f83c6938a4c53127fc16b3551ce)
 - PID = 0, AllocPoint = 100
+
+mRATIOMOON / WETH (Polygon): [0x6391396e103d23ff29bbd674229fa0737168af3e](https://info.quickswap.exchange/pair/0x6391396e103d23ff29bbd674229fa0737168af3e)
+- PID = 2, AllocPoint = 100
+
+mETHDOOM / WETH (Polygon): [0x6057923bbc7290c7ac455d6dc10baa3e8745401a](https://info.quickswap.exchange/pair/0x6057923bbc7290c7ac455d6dc10baa3e8745401a)
+- PID = 3, AllocPoint = 100
 
 ## Governance
 

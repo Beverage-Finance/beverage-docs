@@ -67,31 +67,19 @@ MiniChef (Polygon): [0x405324eb5b216f121b074cf343775814a21ebf91](https://polygon
 
 BeverageMaker (Polygon): [0xEB9017dF1506403262Bd2b75968A6d58e811A125](https://polygonscan.com/address/0xEB9017dF1506403262Bd2b75968A6d58e811A125)
 
-## Sushiswap Pools
-
-RATIOMOON / USDC: [0xa67e36255bdc1cb457532e05debdc896e28ed753](https://etherscan.io/address/0xa67e36255bdc1cb457532e05debdc896e28ed753)
-- PID = 0, AllocPoint = 100
-
-LINKETHMOON / USDC: [0xc5b138bb9b892d26a2d4c8d804155cfe9841aea6](https://etherscan.io/address/0xc5b138bb9b892d26a2d4c8d804155cfe9841aea6)
-- PID = 1, AllocPoint = 0
-
-RATIODOOM / USDC: [0xcb73fa01af00e9c5aa0420f106c87893c053f383](https://etherscan.io/address/0xcb73fa01af00e9c5aa0420f106c87893c053f383)
-- PID = 2, AllocPoint = 0
-
-MKRETHDOOM / USDC: [0x94f21d6c512b7a3631efa36c4ca9b32ba476129e](https://etherscan.io/address/0x94f21d6c512b7a3631efa36c4ca9b32ba476129e)
-- PID = 3, AllocPoint = 100
-
-TETHERDOOM / USDC: [0x72A0F9c792731B55006A9527A2096c53Ce09C7Fe](https://etherscan.io/address/0x72A0F9c792731B55006A9527A2096c53Ce09C7Fe)
-- PID = 4, AllocPoint = 100
+## LP Pools
 
 mETHMOON / WETH (Polygon): [0x83498213a7359f83c6938a4c53127fc16b3551ce](https://info.quickswap.exchange/pair/0x83498213a7359f83c6938a4c53127fc16b3551ce)
-- PID = 0, AllocPoint = 100
+- PID = 0, AllocPoint = 0
 
 mRATIOMOON / WETH (Polygon): [0x6391396e103d23ff29bbd674229fa0737168af3e](https://info.quickswap.exchange/pair/0x6391396e103d23ff29bbd674229fa0737168af3e)
-- PID = 2, AllocPoint = 100
+- PID = 2, AllocPoint = 0
 
 mETHDOOM / WETH (Polygon): [0x6057923bbc7290c7ac455d6dc10baa3e8745401a](https://info.quickswap.exchange/pair/0x6057923bbc7290c7ac455d6dc10baa3e8745401a)
-- PID = 3, AllocPoint = 100
+- PID = 3, AllocPoint = 0
+
+DRINK / WETH (Polygon): [0x4fdcf0a0c614f35bb44ce64def5493e655c18e63](https://info.quickswap.exchange/pair/0x4fdcf0a0c614f35bb44ce64def5493e655c18e63)
+- PID = 4, AllocPoint = 100
 
 ## Governance
 
